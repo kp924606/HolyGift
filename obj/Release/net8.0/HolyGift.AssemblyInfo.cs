@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HolyGift")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0db1f0bc862d8c9e748e933dfb9f8b342c509d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed48f77c899e3774be628ecc3cfdb9a28f5070ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("HolyGift")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HolyGift")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -33,3 +33,4 @@ D:\蔡承廷\Development\My\HolyGift\obj\Debug\net8.0\HolyGift.dll
 D:\蔡承廷\Development\My\HolyGift\obj\Debug\net8.0\refint\HolyGift.dll
 D:\蔡承廷\Development\My\HolyGift\obj\Debug\net8.0\HolyGift.pdb
 D:\蔡承廷\Development\My\HolyGift\obj\Debug\net8.0\ref\HolyGift.dll
+D:\蔡承廷\Development\My\HolyGift\obj\Debug\net8.0\HolyGift.sourcelink.json

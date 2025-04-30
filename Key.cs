@@ -95,6 +95,9 @@ namespace HolyGift
         public const string CIMAPPTWSUri = @"CIMAPPTWSUri";
         public const string CIMAPPTWSTimeOut = @"CIMAPPTWSTimeOut";
         public const string ALPDDBConnection = @"ALPDDBConnection";
+
+        public const string fps = @"fps";
+        public const string SaveFolder = @"SaveFolder";
         #endregion
     }
 }
